@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=khs37)](https://solved.ac/khs37)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/khs37?theme=light&font=Noto%20Sans%20KR)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/khs37?theme=light&font=Noto%20Sans%20KR)](https://leetcode.com/khs37)
 
 <!--
 **khs3737/khs3737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
